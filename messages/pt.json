@@ -1,0 +1,102 @@
+{
+  "components/error-block": {
+    "go_to_homepage": "Ir para a página inicial",
+    "its_name_changed_or_is_temporarily_unavailable": "seu nome foi alterado ou está temporariamente indisponível",
+    "ops_page_not_found": "Ops! Página não encontrada",
+    "the_page_you_removed_had": "A página que você está procurando pode ter sido removida se"
+  },
+  "components/ui/confirm-dialog": {
+    "Cancel": "Cancel",
+    "Confirm": "Confirmar"
+  },
+  "components/ui/countdown": {
+    "MIN": "MIN",
+    "SEC": "SEGUNDO",
+    "please_refresh_to_start_a_new_deposit_session": "Atualize para iniciar uma nova sessão de depósito",
+    "session_expired": "Sessão expirada"
+  },
+  "components/ui/error-display": {
+    "Retry": "Tentar Novamente",
+    "error_loading_data": "Erro ao carregar dados"
+  },
+  "components/ui/icon-picker": {
+    "All": "All",
+    "Arrows": "Setas",
+    "Commerce": "Comércio",
+    "Interface": "Interface",
+    "Media": "Mídia",
+    "Popular": "Popular",
+    "Shapes": "Formas",
+    "no_icons_found": "Nenhum ícone encontrado",
+    "try_a_different_search_term": "Tente um termo de pesquisa diferente"
+  },
+  "components/ui/image-upload": {
+    "5mb)": "5MB)",
+    "Remove": "Retirar",
+    "drop_a_new_image_to_replace": "Solte uma nova imagem para substituir",
+    "processing_image": "Processamento de imagem",
+    "svg_png_jpg_or_gif_(max": "SVG, PNG, JPG ou GIF (máx."
+  },
+  "components/ui/object-table": {
+    "Showing": "Showing",
+    "of": "of"
+  },
+  "components/ui/pagination": {
+    "Next": "Próximo",
+    "Previous": "Anterior"
+  },
+  "components/ui/stepper": {
+    "Back": "Back",
+    "Next": "Próximo",
+    "Processing": "Processing",
+    "Submit": "Enviar"
+  },
+  "components/ui/tag-input": {
+    "maximum_of": "Máximo de",
+    "remove_a_tag_to_add_a_new_one": "Remover uma tag para adicionar uma nova",
+    "tags_reached": "tags alcançadas"
+  },
+  "support": {
+    "agent_assignment": "Atribuição de agente",
+    "all_conversations_are_securely_stored": "Todas as conversas são criptografadas e armazenadas com segurança",
+    "automatic_agent_assignment_and_expertise": "Atribuição automática de agentes com base na disponibilidade e experiência",
+    "contact_us": "Contate-nos",
+    "create_and_manage_support_tickets_for_your_issues": "Crie e gerencie tíquetes de suporte para seus problemas",
+    "create_support_ticket": "Criar tíquete de suporte",
+    "get_help_when_support_system": "Obtenha ajuda quando precisar com nosso sistema de suporte abrangente",
+    "get_instant_help_from_our_support_agents": "Obtenha ajuda instantânea de nossos agentes de suporte",
+    "go_to_support_center": "Ir para o Centro de Suporte",
+    "live_chat": "Bate-papo ao vivo",
+    "need_help": "Precisa de ajuda?",
+    "our_support_team_may_have": "Nossa equipe de suporte está aqui para ajudá-lo com qualquer dúvida ou problema que você possa ter",
+    "real-time_updates": "Atualizações em tempo real",
+    "secure_communication": "Comunicação segura",
+    "start_live_chat": "Iniciar bate-papo ao vivo",
+    "support_center": "Centro de Suporte",
+    "support_tickets": "Tíquetes de suporte",
+    "try_live_chat_(bottom_right)": "Experimente o bate-papo ao vivo (canto inferior direito)",
+    "view_support_tickets": "Ver tíquetes de suporte",
+    "websocket_connections_ensure_status_updates": "As conexões WebSocket garantem a entrega instantânea de mensagens e atualizações de status",
+    "•_direct_connection_with_support_agents": "• Conexão direta com agentes de suporte",
+    "•_file_sharing_capabilities": "• Recursos de compartilhamento de arquivos",
+    "•_full_conversation_history": "• Histórico completo de conversas",
+    "•_queue_position_tracking": "• Rastreamento de posição da fila",
+    "•_real-time_messaging": "• Mensagens em tempo real",
+    "•_real-time_updates_via_websocket": "• Atualizações em tempo real via WebSocket",
+    "•_set_priority_levels_(low_medium_high)": "• Defina níveis de prioridade (Baixo, Médio, Alto)",
+    "•_track_your_issues_with_unique_ticket_ids": "• Acompanhe seus problemas com IDs de tíquete exclusivos"
+  },
+  "utility": {
+    "*dont_worry_we_will_not_spam_you_)": "*Não se preocupe, não enviaremos spam para você :)",
+    "*don’t_worry_we_will_not_spam_you_)": "*Não se preocupe, não enviaremos spam para você :)",
+    "coming_soon": "Em breve",
+    "contact_us": "Contate-nos",
+    "get_notified_when_we_launch": "Seja notificado quando lançarmos",
+    "notify_me": "Notifique-me",
+    "we_are_under_maintenance": "Estamos em manutenção",
+    "well_be_back_shortly": "Voltaremos em breve",
+    "were_making_the_system_more_awesome": "Estamos tornando o sistema mais incrível",
+    "we’ll_be_back_shortly": "Voltaremos em breve",
+    "we’re_making_the_system_more_awesome": "Estamos tornando o sistema mais incrível"
+  }
+}

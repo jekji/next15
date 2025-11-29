@@ -1,0 +1,102 @@
+{
+  "components/error-block": {
+    "go_to_homepage": "ไปที่หน้าแรก",
+    "its_name_changed_or_is_temporarily_unavailable": "ชื่อเปลี่ยนไปหรือไม่สามารถใช้งานได้ชั่วคราว",
+    "ops_page_not_found": "ออป! ไม่พบหน้า",
+    "the_page_you_removed_had": "หน้าเว็บที่คุณกําลังค้นหาอาจถูกลบออกแล้ว"
+  },
+  "components/ui/confirm-dialog": {
+    "Cancel": "Cancel",
+    "Confirm": "ยืนยัน"
+  },
+  "components/ui/countdown": {
+    "MIN": "นาที",
+    "SEC": "วินาที",
+    "please_refresh_to_start_a_new_deposit_session": "โปรดรีเฟรชเพื่อเริ่มเซสชันการฝากเงินใหม่",
+    "session_expired": "เซสชันหมดอายุ"
+  },
+  "components/ui/error-display": {
+    "Retry": "ลองใหม่",
+    "error_loading_data": "โหลดข้อมูลผิดพลาด"
+  },
+  "components/ui/icon-picker": {
+    "All": "All",
+    "Arrows": "ลูก ศร",
+    "Commerce": "การค้า",
+    "Interface": "อิน เทอร์ เฟซ",
+    "Media": "สื่อ",
+    "Popular": "เป็นที่นิยม",
+    "Shapes": "รูป ร่าง",
+    "no_icons_found": "ไม่พบไอคอน",
+    "try_a_different_search_term": "ลองใช้ข้อความค้นหาอื่น"
+  },
+  "components/ui/image-upload": {
+    "5mb)": "5 ล้านบาท)",
+    "Remove": "ถอด",
+    "drop_a_new_image_to_replace": "วางรูปภาพใหม่เพื่อแทนที่",
+    "processing_image": "การประมวลผลภาพ",
+    "svg_png_jpg_or_gif_(max": "SVG, PNG, JPG หรือ GIF (สูงสุด"
+  },
+  "components/ui/object-table": {
+    "Showing": "Showing",
+    "of": "of"
+  },
+  "components/ui/pagination": {
+    "Next": "ต่อไป",
+    "Previous": "ก่อน"
+  },
+  "components/ui/stepper": {
+    "Back": "Back",
+    "Next": "ต่อไป",
+    "Processing": "Processing",
+    "Submit": "ส่ง"
+  },
+  "components/ui/tag-input": {
+    "maximum_of": "สูงสุด",
+    "remove_a_tag_to_add_a_new_one": "ลบแท็กเพื่อเพิ่มแท็กใหม่",
+    "tags_reached": "แท็กที่เข้าถึง"
+  },
+  "support": {
+    "agent_assignment": "การมอบหมายตัวแทน",
+    "all_conversations_are_securely_stored": "การสนทนาทั้งหมดได้รับการเข้ารหัสและจัดเก็บอย่างปลอดภัย",
+    "automatic_agent_assignment_and_expertise": "การมอบหมายตัวแทนอัตโนมัติตามความพร้อมและความเชี่ยวชาญ",
+    "contact_us": "ติดต่อเรา",
+    "create_and_manage_support_tickets_for_your_issues": "สร้างและจัดการตั๋วการสนับสนุนสําหรับปัญหาของคุณ",
+    "create_support_ticket": "สร้างตั๋วสนับสนุน",
+    "get_help_when_support_system": "รับความช่วยเหลือเมื่อคุณต้องการด้วยระบบสนับสนุนที่ครอบคลุมของเรา",
+    "get_instant_help_from_our_support_agents": "รับความช่วยเหลือทันทีจากตัวแทนฝ่ายสนับสนุนของเรา",
+    "go_to_support_center": "ไปที่ศูนย์สนับสนุน",
+    "live_chat": "แชทสด",
+    "need_help": "ต้องการความช่วยเหลือ?",
+    "our_support_team_may_have": "ทีมสนับสนุนของเราพร้อมช่วยเหลือคุณหากมีคําถามหรือปัญหาใดๆ ที่คุณอาจมี",
+    "real-time_updates": "อัพเดทแบบเรียลไทม์",
+    "secure_communication": "การสื่อสารที่ปลอดภัย",
+    "start_live_chat": "เริ่มแชทสด",
+    "support_center": "ศูนย์สนับสนุน",
+    "support_tickets": "ตั๋วสนับสนุน",
+    "try_live_chat_(bottom_right)": "ลองใช้แชทสด (ล่างขวา)",
+    "view_support_tickets": "ดูตั๋วสนับสนุน",
+    "websocket_connections_ensure_status_updates": "การเชื่อมต่อ WebSocket ช่วยให้มั่นใจได้ถึงการส่งข้อความโต้ตอบแบบทันทีและการอัปเดตสถานะ",
+    "•_direct_connection_with_support_agents": "• การเชื่อมต่อโดยตรงกับตัวแทนสนับสนุน",
+    "•_file_sharing_capabilities": "•ความสามารถในการแชร์ไฟล์",
+    "•_full_conversation_history": "•ประวัติการสนทนาแบบเต็ม",
+    "•_queue_position_tracking": "•การติดตามตําแหน่งคิว",
+    "•_real-time_messaging": "•การส่งข้อความแบบเรียลไทม์",
+    "•_real-time_updates_via_websocket": "•อัปเดตตามเวลาจริงผ่าน WebSocket",
+    "•_set_priority_levels_(low_medium_high)": "• ตั้งค่าระดับความสําคัญ (ต่ํา ปานกลาง สูง)",
+    "•_track_your_issues_with_unique_ticket_ids": "•ติดตามปัญหาของคุณด้วยรหัสตั๋วที่ไม่ซ้ํากัน"
+  },
+  "utility": {
+    "*dont_worry_we_will_not_spam_you_)": "*ไม่ต้องกังวล เราจะไม่สแปมคุณ:)",
+    "*don’t_worry_we_will_not_spam_you_)": "*ไม่ต้องกังวล เราจะไม่สแปมคุณ:)",
+    "coming_soon": "เร็ว ๆ นี้",
+    "contact_us": "ติดต่อเรา",
+    "get_notified_when_we_launch": "รับการแจ้งเตือนเมื่อเราเปิดตัว",
+    "notify_me": "แจ้ง เตือน",
+    "we_are_under_maintenance": "เราอยู่ระหว่างการบํารุงรักษา",
+    "well_be_back_shortly": "เราจะกลับมาอีกไม่นาน",
+    "were_making_the_system_more_awesome": "เรากําลังทําให้ระบบยอดเยี่ยมยิ่งขึ้น",
+    "we’ll_be_back_shortly": "เราจะกลับมาอีกไม่นาน",
+    "we’re_making_the_system_more_awesome": "เรากําลังทําให้ระบบยอดเยี่ยมยิ่งขึ้น"
+  }
+}

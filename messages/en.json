@@ -1,0 +1,102 @@
+{
+  "components/error-block": {
+    "ops_page_not_found": "Ops! Page Not Found",
+    "the_page_you_removed_had": "The page you are looking for might have been removed had",
+    "its_name_changed_or_is_temporarily_unavailable": "its name changed or is temporarily unavailable",
+    "go_to_homepage": "Go to Homepage"
+  },
+  "components/ui/confirm-dialog": {
+    "Cancel": "Cancel",
+    "Confirm": "Confirm"
+  },
+  "components/ui/countdown": {
+    "MIN": "MIN",
+    "SEC": "SEC",
+    "session_expired": "Session Expired",
+    "please_refresh_to_start_a_new_deposit_session": "Please refresh to start a new deposit session"
+  },
+  "components/ui/error-display": {
+    "error_loading_data": "Error loading data",
+    "Retry": "Retry"
+  },
+  "components/ui/icon-picker": {
+    "Popular": "Popular",
+    "Interface": "Interface",
+    "Arrows": "Arrows",
+    "Media": "Media",
+    "Shapes": "Shapes",
+    "Commerce": "Commerce",
+    "All": "All",
+    "no_icons_found": "No icons found",
+    "try_a_different_search_term": "Try a different search term"
+  },
+  "components/ui/image-upload": {
+    "drop_a_new_image_to_replace": "Drop a new image to replace",
+    "Remove": "Remove",
+    "processing_image": "Processing image",
+    "svg_png_jpg_or_gif_(max": "SVG, PNG, JPG or GIF (max",
+    "5mb)": "5MB)"
+  },
+  "components/ui/object-table": {
+    "Showing": "Showing",
+    "of": "of"
+  },
+  "components/ui/pagination": {
+    "Previous": "Previous",
+    "Next": "Next"
+  },
+  "components/ui/stepper": {
+    "Back": "Back",
+    "Next": "Next",
+    "Processing": "Processing",
+    "Submit": "Submit"
+  },
+  "components/ui/tag-input": {
+    "maximum_of": "Maximum of",
+    "tags_reached": "tags reached",
+    "remove_a_tag_to_add_a_new_one": "Remove a tag to add a new one"
+  },
+  "support": {
+    "support_center": "Support Center",
+    "get_help_when_support_system": "Get help when you need it with our comprehensive support system",
+    "view_support_tickets": "View Support Tickets",
+    "contact_us": "Contact Us",
+    "support_tickets": "Support Tickets",
+    "create_and_manage_support_tickets_for_your_issues": "Create and manage support tickets for your issues",
+    "•_track_your_issues_with_unique_ticket_ids": "• Track your issues with unique ticket IDs",
+    "•_set_priority_levels_(low_medium_high)": "• Set priority levels (Low, Medium, High)",
+    "•_real-time_updates_via_websocket": "• Real-time updates via WebSocket",
+    "•_full_conversation_history": "• Full conversation history",
+    "go_to_support_center": "Go to Support Center",
+    "live_chat": "Live Chat",
+    "get_instant_help_from_our_support_agents": "Get instant help from our support agents",
+    "•_direct_connection_with_support_agents": "• Direct connection with support agents",
+    "•_real-time_messaging": "• Real-time messaging",
+    "•_queue_position_tracking": "• Queue position tracking",
+    "•_file_sharing_capabilities": "• File sharing capabilities",
+    "try_live_chat_(bottom_right)": "Try Live Chat (Bottom Right)",
+    "real-time_updates": "Real-time Updates",
+    "websocket_connections_ensure_status_updates": "WebSocket connections ensure instant message delivery and status updates",
+    "agent_assignment": "Agent Assignment",
+    "automatic_agent_assignment_and_expertise": "Automatic agent assignment based on availability and expertise",
+    "secure_communication": "Secure Communication",
+    "all_conversations_are_securely_stored": "All conversations are encrypted and securely stored",
+    "need_help": "Need Help?",
+    "our_support_team_may_have": "Our support team is here to help you with any questions or issues you may have",
+    "create_support_ticket": "Create Support Ticket",
+    "start_live_chat": "Start Live Chat"
+  },
+  "utility": {
+    "contact_us": "Contact Us",
+    "we_are_under_maintenance": "We are under maintenance",
+    "we’re_making_the_system_more_awesome": "We’re making the system more awesome",
+    "we’ll_be_back_shortly": "We’ll be back shortly",
+    "coming_soon": "Coming soon",
+    "get_notified_when_we_launch": "Get notified when we launch",
+    "notify_me": "Notify me",
+    "*don’t_worry_we_will_not_spam_you_)": "*Don’t worry we will not spam you :)",
+    "*dont_worry_we_will_not_spam_you_)": "*Don't worry we will not spam you :)",
+    "were_making_the_system_more_awesome": "We're making the system more awesome",
+    "well_be_back_shortly": "We'll be back shortly"
+  }
+}

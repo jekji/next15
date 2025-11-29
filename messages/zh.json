@@ -1,0 +1,102 @@
+{
+  "components/ui/confirm-dialog": {
+    "Cancel": "取消",
+    "Confirm": "确认"
+  },
+  "components/ui/countdown": {
+    "MIN": "最小",
+    "SEC": "秒",
+    "please_refresh_to_start_a_new_deposit_session": "请刷新以开始新的存款会话",
+    "session_expired": "会话已过期"
+  },
+  "components/ui/error-display": {
+    "Retry": "重试",
+    "error_loading_data": "加载数据时出错"
+  },
+  "components/ui/icon-picker": {
+    "All": "都",
+    "Arrows": "箭头",
+    "Commerce": "商业",
+    "Interface": "接口",
+    "Media": "媒体",
+    "Popular": "流行",
+    "Shapes": "形状",
+    "no_icons_found": "未找到图标",
+    "try_a_different_search_term": "尝试其他搜索词"
+  },
+  "components/ui/image-upload": {
+    "5mb)": "5MB）",
+    "Remove": "删除",
+    "drop_a_new_image_to_replace": "拖放新图片进行替换",
+    "processing_image": "正在处理图片",
+    "svg_png_jpg_or_gif_(max": "SVG、PNG、JPG 或 GIF（最大"
+  },
+  "components/ui/object-table": {
+    "Showing": "展示",
+    "of": "之"
+  },
+  "components/ui/pagination": {
+    "Next": "下一个",
+    "Previous": "以前"
+  },
+  "components/ui/stepper": {
+    "Back": "返回",
+    "Next": "下一个",
+    "Processing": "加工",
+    "Submit": "提交"
+  },
+  "components/ui/tag-input": {
+    "maximum_of": "最多",
+    "remove_a_tag_to_add_a_new_one": "删除一个标签以添加新标签",
+    "tags_reached": "个标签"
+  },
+  "components/error-block": {
+    "go_to_homepage": "返回首页",
+    "its_name_changed_or_is_temporarily_unavailable": "名称已更改或暂时不可用",
+    "ops_page_not_found": "哎呀！页面未找到",
+    "the_page_you_removed_had": "您正在寻找的页面可能已被移除"
+  },
+  "support": {
+    "agent_assignment": "坐席分配",
+    "all_conversations_are_securely_stored": "所有对话都经过加密并安全存储",
+    "automatic_agent_assignment_and_expertise": "根据可用性和专业知识自动分配坐席",
+    "contact_us": "联系我们",
+    "create_and_manage_support_tickets_for_your_issues": "创建和管理您问题的支持工单",
+    "create_support_ticket": "创建支持工单",
+    "get_help_when_support_system": "在您需要时通过我们全面的支持系统获得帮助",
+    "get_instant_help_from_our_support_agents": "立即获得支持人员的帮助",
+    "go_to_support_center": "前往支持中心",
+    "live_chat": "在线聊天",
+    "need_help": "需要帮助吗？",
+    "our_support_team_may_have": "我们的支持团队随时为您解答任何问题或解决任何问题",
+    "real-time_updates": "实时更新",
+    "secure_communication": "安全通信",
+    "start_live_chat": "开始在线聊天",
+    "support_center": "支持中心",
+    "support_tickets": "支持工单",
+    "try_live_chat_(bottom_right)": "尝试在线聊天（右下角）",
+    "view_support_tickets": "查看支持工单",
+    "websocket_connections_ensure_status_updates": "WebSocket 连接确保即时消息传递和状态更新",
+    "•_direct_connection_with_support_agents": "• 直接连接支持人员",
+    "•_file_sharing_capabilities": "• 文件共享功能",
+    "•_full_conversation_history": "• 完整的对话历史记录",
+    "•_queue_position_tracking": "• 队列位置跟踪",
+    "•_real-time_messaging": "• 实时消息",
+    "•_real-time_updates_via_websocket": "• 通过WebSocket实时更新",
+    "•_set_priority_levels_(low_medium_high)": "• 设置优先级（低、中、高）",
+    "•_track_your_issues_with_unique_ticket_ids": "• 使用唯一的工单ID跟踪您的问题"
+  },
+  "utility": {
+    "*dont_worry_we_will_not_spam_you_)": "*别担心，我们不会给您发送垃圾邮件 :)",
+    "*don’t_worry_we_will_not_spam_you_)": "*别担心，我们不会给您发送垃圾邮件 :)",
+    "coming_soon": "即将推出",
+    "contact_us": "联系我们",
+    "get_notified_when_we_launch": "启动时获取通知",
+    "notify_me": "通知我",
+    "we_are_under_maintenance": "我们正在维护中",
+    "well_be_back_shortly": "我们很快就会回来",
+    "were_making_the_system_more_awesome": "我们正在让系统变得更加出色",
+    "we’ll_be_back_shortly": "我们很快就会回来",
+    "we’re_making_the_system_more_awesome": "我们正在让系统变得更加出色"
+  }
+}

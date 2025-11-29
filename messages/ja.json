@@ -1,0 +1,102 @@
+{
+  "components/error-block": {
+    "go_to_homepage": "ホームページへ",
+    "its_name_changed_or_is_temporarily_unavailable": "名前が変更されたか、一時的に利用できない",
+    "ops_page_not_found": "オプス!ページが見つかりません",
+    "the_page_you_removed_had": "あなたが探しているページは削除されている可能性があります"
+  },
+  "components/ui/confirm-dialog": {
+    "Cancel": "Cancel",
+    "Confirm": "確認する"
+  },
+  "components/ui/countdown": {
+    "MIN": "分",
+    "SEC": "秒",
+    "please_refresh_to_start_a_new_deposit_session": "新しい入金セッションを開始するには、更新してください",
+    "session_expired": "セッションの有効期限が切れました"
+  },
+  "components/ui/error-display": {
+    "Retry": "再試行",
+    "error_loading_data": "データの読み込みエラー"
+  },
+  "components/ui/icon-picker": {
+    "All": "All",
+    "Arrows": "矢印",
+    "Commerce": "商業",
+    "Interface": "インターフェイス",
+    "Media": "メディア",
+    "Popular": "人気のある",
+    "Shapes": "図形",
+    "no_icons_found": "アイコンが見つかりません",
+    "try_a_different_search_term": "別の検索語句を試す"
+  },
+  "components/ui/image-upload": {
+    "5mb)": "5メガバイト)",
+    "Remove": "取り去る",
+    "drop_a_new_image_to_replace": "新しい画像をドロップして置き換える",
+    "processing_image": "画像の処理",
+    "svg_png_jpg_or_gif_(max": "SVG、PNG、JPG、GIF(最大"
+  },
+  "components/ui/object-table": {
+    "Showing": "Showing",
+    "of": "of"
+  },
+  "components/ui/pagination": {
+    "Next": "次に",
+    "Previous": "先の"
+  },
+  "components/ui/stepper": {
+    "Back": "Back",
+    "Next": "次に",
+    "Processing": "Processing",
+    "Submit": "送信"
+  },
+  "components/ui/tag-input": {
+    "maximum_of": "最大値",
+    "remove_a_tag_to_add_a_new_one": "タグを削除して新しいタグを追加する",
+    "tags_reached": "到達したタグ"
+  },
+  "support": {
+    "agent_assignment": "エージェントの割り当て",
+    "all_conversations_are_securely_stored": "すべての会話は暗号化され、安全に保存されます",
+    "automatic_agent_assignment_and_expertise": "可用性と専門知識に基づく自動エージェント割り当て",
+    "contact_us": "お 問い合わせ",
+    "create_and_manage_support_tickets_for_your_issues": "問題のサポート チケットを作成して管理する",
+    "create_support_ticket": "サポートチケットを作成",
+    "get_help_when_support_system": "必要なときには、包括的なサポートシステムでサポートを受けることができます",
+    "get_instant_help_from_our_support_agents": "サポートエージェントからすぐにサポートを受けることができます",
+    "go_to_support_center": "サポートセンターへ",
+    "live_chat": "ライブチャット",
+    "need_help": "ヘルプが必要ですか?",
+    "our_support_team_may_have": "私たちのサポートチームは、あなたが持っているかもしれないどんな質問や���題���もあなたを助けるためにここにいます",
+    "real-time_updates": "リアルタイム更新",
+    "secure_communication": "セキュアな通信",
+    "start_live_chat": "ライブチャットを開始",
+    "support_center": "サポートセンター",
+    "support_tickets": "サポートチケット",
+    "try_live_chat_(bottom_right)": "ライブチャットを試す(右下)",
+    "view_support_tickets": "サポートチケットの表示",
+    "websocket_connections_ensure_status_updates": "WebSocket 接続により、インスタント メッセージの配信とステータスの更新が保証されます",
+    "•_direct_connection_with_support_agents": "• サポートエージェントとの直接接続",
+    "•_file_sharing_capabilities": "•ファイル共有機能",
+    "•_full_conversation_history": "•完全な会話履歴",
+    "•_queue_position_tracking": "• キュー位置の追跡",
+    "•_real-time_messaging": "•リアルタイムメッセージング",
+    "•_real-time_updates_via_websocket": "•WebSocketによるリアルタイム更新",
+    "•_set_priority_levels_(low_medium_high)": "•優先度レベル(低、中、高)を設定します",
+    "•_track_your_issues_with_unique_ticket_ids": "•一意のチケットIDで問題を追跡します"
+  },
+  "utility": {
+    "*dont_worry_we_will_not_spam_you_)": "*私たちはあなたにスパムを送信しませんのでご安心ください:)",
+    "*don’t_worry_we_will_not_spam_you_)": "*私たちはあなたにスパムを送信しませんのでご安心ください:)",
+    "coming_soon": "もうすぐです",
+    "contact_us": "お 問い合わせ",
+    "get_notified_when_we_launch": "ローンチ時に通知を受け取る",
+    "notify_me": "知らせて",
+    "we_are_under_maintenance": "メンテナンス中です",
+    "well_be_back_shortly": "まもなく戻ってきます",
+    "were_making_the_system_more_awesome": "私たちはシステムをより素晴らしいものにしています",
+    "we’ll_be_back_shortly": "まもなく戻ってきます",
+    "we’re_making_the_system_more_awesome": "私たちはシステムをより素晴らしいものにしています"
+  }
+}

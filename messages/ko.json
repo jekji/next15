@@ -1,0 +1,102 @@
+{
+  "components/error-block": {
+    "go_to_homepage": "홈페이지 바로가기",
+    "its_name_changed_or_is_temporarily_unavailable": "이름이 변경되었거나 일시적으로 사용할 수 없습니다.",
+    "ops_page_not_found": "본부! 페이지를 찾을 수 없음",
+    "the_page_you_removed_had": "찾고 있는 페이지가 제거되었을 수 있습니다."
+  },
+  "components/ui/confirm-dialog": {
+    "Cancel": "Cancel",
+    "Confirm": "확인하다"
+  },
+  "components/ui/countdown": {
+    "MIN": "분",
+    "SEC": "초",
+    "please_refresh_to_start_a_new_deposit_session": "새로운 입금 세션을 시작하려면 새로 고침하십시오.",
+    "session_expired": "세션 만료됨"
+  },
+  "components/ui/error-display": {
+    "Retry": "재시도",
+    "error_loading_data": "데이터 로드 오류"
+  },
+  "components/ui/icon-picker": {
+    "All": "All",
+    "Arrows": "화살표",
+    "Commerce": "상업",
+    "Interface": "인터페이스",
+    "Media": "미디어",
+    "Popular": "인기 있는",
+    "Shapes": "셰이프",
+    "no_icons_found": "아이콘을 찾을 수 없습니다.",
+    "try_a_different_search_term": "다른 검색어를 사용해 보세요."
+  },
+  "components/ui/image-upload": {
+    "5mb)": "5MB)",
+    "Remove": "제거하다",
+    "drop_a_new_image_to_replace": "바꿀 새 이미지 놓기",
+    "processing_image": "처리 중인 이미지",
+    "svg_png_jpg_or_gif_(max": "SVG, PNG, JPG 또는 GIF (최대"
+  },
+  "components/ui/object-table": {
+    "Showing": "Showing",
+    "of": "of"
+  },
+  "components/ui/pagination": {
+    "Next": "다음",
+    "Previous": "이전의"
+  },
+  "components/ui/stepper": {
+    "Back": "Back",
+    "Next": "다음",
+    "Processing": "Processing",
+    "Submit": "전송"
+  },
+  "components/ui/tag-input": {
+    "maximum_of": "최대",
+    "remove_a_tag_to_add_a_new_one": "태그를 제거하여 새 태그 추가",
+    "tags_reached": "태그 도달됨"
+  },
+  "support": {
+    "agent_assignment": "상담원 할당",
+    "all_conversations_are_securely_stored": "모든 대화는 암호화되어 안전하게 저장됩니다.",
+    "automatic_agent_assignment_and_expertise": "가용성 및 전문성에 따른 자동 상담원 배정",
+    "contact_us": "문의",
+    "create_and_manage_support_tickets_for_your_issues": "문제에 대한 지원 티켓 만들기 및 관리",
+    "create_support_ticket": "지원 티켓 만들기",
+    "get_help_when_support_system": "포괄적인 지원 시스템을 통해 필요할 때 도움을 받으세요",
+    "get_instant_help_from_our_support_agents": "지원 담당자의 즉각적인 도움을 받으세요",
+    "go_to_support_center": "지원 센터로 이동",
+    "live_chat": "라이브 채팅",
+    "need_help": "도움이 필요하신가요?",
+    "our_support_team_may_have": "저희 지원팀은 귀하가 가질 수 있는 질문이나 문제에 대해 도움을 드릴 것입니다",
+    "real-time_updates": "실시간 업데이트",
+    "secure_communication": "보안 통신",
+    "start_live_chat": "라이브 채팅 시작",
+    "support_center": "지원 센터",
+    "support_tickets": "지원 티켓",
+    "try_live_chat_(bottom_right)": "라이브 채팅 시도 (오른쪽 하단)",
+    "view_support_tickets": "지원 티켓 보기",
+    "websocket_connections_ensure_status_updates": "WebSocket 연결은 즉각적인 메시지 전달 및 상태 업데이트를 보장합니다.",
+    "•_direct_connection_with_support_agents": "• 지원 에이전트와 직접 연결",
+    "•_file_sharing_capabilities": "• 파일 공유 기능",
+    "•_full_conversation_history": "• 전체 대화 기록",
+    "•_queue_position_tracking": "• 대기열 위치 추적",
+    "•_real-time_messaging": "• 실시간 메시징",
+    "•_real-time_updates_via_websocket": "• WebSocket을 통한 실시간 업데이트",
+    "•_set_priority_levels_(low_medium_high)": "• 우선 순위 수준 설정(낮음, 중간, 높음)",
+    "•_track_your_issues_with_unique_ticket_ids": "• 고유 티켓 ID로 문제 추적"
+  },
+  "utility": {
+    "*dont_worry_we_will_not_spam_you_)": "*스팸 메일을 보내지 않으니 걱정하지 마세요:)",
+    "*don’t_worry_we_will_not_spam_you_)": "*스팸 메일을 보내지 않으니 걱정하지 마세요:)",
+    "coming_soon": "개봉박두",
+    "contact_us": "문의",
+    "get_notified_when_we_launch": "출시 시 알림 받기",
+    "notify_me": "알림",
+    "we_are_under_maintenance": "우리는 유지 보수 중입니다",
+    "well_be_back_shortly": "우리는 곧 돌아올 것입니다",
+    "were_making_the_system_more_awesome": "우리는 시스템을 더 멋지게 만들고 있습니다.",
+    "we’ll_be_back_shortly": "우리는 곧 돌아올 것입니다",
+    "we’re_making_the_system_more_awesome": "우리는 시스템을 더 멋지게 만들고 있습니다."
+  }
+}

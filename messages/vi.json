@@ -1,0 +1,102 @@
+{
+  "components/error-block": {
+    "go_to_homepage": "Truy cập Trang chủ",
+    "its_name_changed_or_is_temporarily_unavailable": "tên của nó đã thay đổi hoặc tạm thời không khả dụng",
+    "ops_page_not_found": "Ops! Không tìm thấy trang",
+    "the_page_you_removed_had": "Trang bạn đang tìm kiếm có thể đã bị xóa nếu"
+  },
+  "components/ui/confirm-dialog": {
+    "Cancel": "Cancel",
+    "Confirm": "Xác nhận"
+  },
+  "components/ui/countdown": {
+    "MIN": "PHÚT",
+    "SEC": "SEC",
+    "please_refresh_to_start_a_new_deposit_session": "Vui lòng làm mới để bắt đầu phiên nạp tiền mới",
+    "session_expired": "Phiên đã hết hạn"
+  },
+  "components/ui/error-display": {
+    "Retry": "Thử lại",
+    "error_loading_data": "Lỗi tải dữ liệu"
+  },
+  "components/ui/icon-picker": {
+    "All": "All",
+    "Arrows": "Mũi tên",
+    "Commerce": "Thương mại",
+    "Interface": "Giao diện",
+    "Media": "Phương tiện",
+    "Popular": "Phổ biến",
+    "Shapes": "Hình dạng",
+    "no_icons_found": "Không tìm thấy biểu tượng nào",
+    "try_a_different_search_term": "Thử một cụm từ tìm kiếm khác"
+  },
+  "components/ui/image-upload": {
+    "5mb)": "5MB)",
+    "Remove": "Triệt",
+    "drop_a_new_image_to_replace": "Thả hình ảnh mới để thay thế",
+    "processing_image": "Xử lý hình ảnh",
+    "svg_png_jpg_or_gif_(max": "SVG, PNG, JPG hoặc GIF (tối đa"
+  },
+  "components/ui/object-table": {
+    "Showing": "Showing",
+    "of": "of"
+  },
+  "components/ui/pagination": {
+    "Next": "Sau",
+    "Previous": "Trước"
+  },
+  "components/ui/stepper": {
+    "Back": "Back",
+    "Next": "Sau",
+    "Processing": "Processing",
+    "Submit": "Trình"
+  },
+  "components/ui/tag-input": {
+    "maximum_of": "Tối đa",
+    "remove_a_tag_to_add_a_new_one": "Xóa thẻ để thêm thẻ mới",
+    "tags_reached": "Thẻ đã đạt được"
+  },
+  "support": {
+    "agent_assignment": "Chỉ định đại lý",
+    "all_conversations_are_securely_stored": "Tất cả các cuộc trò chuyện đều được mã hóa và lưu trữ an toàn",
+    "automatic_agent_assignment_and_expertise": "Chỉ định nhân viên tự động dựa trên tính khả d���ng và chuyên môn",
+    "contact_us": "Liên hệ với chúng tôi",
+    "create_and_manage_support_tickets_for_your_issues": "Tạo và quản lý phiếu hỗ trợ cho các vấn đề của bạn",
+    "create_support_ticket": "Tạo phiếu hỗ trợ",
+    "get_help_when_support_system": "Nhận trợ giúp khi bạn cần với hệ thống hỗ trợ toàn diện của chúng tôi",
+    "get_instant_help_from_our_support_agents": "Nhận trợ giúp ngay lập tức từ các nhân viên hỗ trợ của chúng tôi",
+    "go_to_support_center": "Truy cập Trung tâm hỗ trợ",
+    "live_chat": "Trò chuyện trực tiếp",
+    "need_help": "Cần giúp đỡ?",
+    "our_support_team_may_have": "Nhóm hỗ trợ của chúng tôi luôn sẵn sàng trợ giúp bạn với bất kỳ câu hỏi hoặc vấn đề nào bạn có thể gặp phải",
+    "real-time_updates": "Cập nhật theo thời gian thực",
+    "secure_communication": "Giao tiếp an toàn",
+    "start_live_chat": "Bắt đầu trò chuyện trực tiếp",
+    "support_center": "Trung tâm hỗ trợ",
+    "support_tickets": "Vé hỗ trợ",
+    "try_live_chat_(bottom_right)": "Dùng thử trò chuyện trực tiếp (dưới cùng bên phải)",
+    "view_support_tickets": "Xem phiếu hỗ trợ",
+    "websocket_connections_ensure_status_updates": "Kết nối WebSocket đảm bảo gửi tin nhắn tức thời và cập nhật trạng thái",
+    "•_direct_connection_with_support_agents": "• Kết nối trực tiếp với các nhân viên hỗ trợ",
+    "•_file_sharing_capabilities": "• Khả năng chia sẻ tệp",
+    "•_full_conversation_history": "• Lịch sử hội thoại đầy đủ",
+    "•_queue_position_tracking": "• Theo dõi vị trí hàng đợi",
+    "•_real-time_messaging": "• Nhắn tin thời gian thực",
+    "•_real-time_updates_via_websocket": "• Cập nhật thời gian thực qua WebSocket",
+    "•_set_priority_levels_(low_medium_high)": "• Đặt mức độ ưu tiên (Thấp, Trung bình, Cao)",
+    "•_track_your_issues_with_unique_ticket_ids": "• Theo dõi các vấn đề của bạn bằng ID vé duy nhất"
+  },
+  "utility": {
+    "*dont_worry_we_will_not_spam_you_)": "* Đừng lo lắng, chúng tôi sẽ không spam bạn :)",
+    "*don’t_worry_we_will_not_spam_you_)": "* Đừng lo lắng, chúng tôi sẽ không spam bạn :)",
+    "coming_soon": "Đến sớm",
+    "contact_us": "Liên hệ với chúng tôi",
+    "get_notified_when_we_launch": "Nhận thông báo khi chúng tôi ra mắt",
+    "notify_me": "Thông báo cho tôi",
+    "we_are_under_maintenance": "Chúng tôi đang được bảo trì",
+    "well_be_back_shortly": "Chúng tôi sẽ trở lại sớm",
+    "were_making_the_system_more_awesome": "Chúng tôi đang làm cho hệ thống trở nên tuyệt vời hơn",
+    "we’ll_be_back_shortly": "Chúng tôi sẽ trở lại sớm",
+    "we’re_making_the_system_more_awesome": "Chúng tôi đang làm cho hệ thống trở nên tuyệt vời hơn"
+  }
+}

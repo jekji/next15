@@ -1,0 +1,102 @@
+{
+  "components/error-block": {
+    "go_to_homepage": "Aller à la page d’accueil",
+    "its_name_changed_or_is_temporarily_unavailable": "son nom a changé ou est temporairement indisponible",
+    "ops_page_not_found": "Ops! Page introuvable",
+    "the_page_you_removed_had": "La page que vous recherchez aurait peut-être été supprimée si"
+  },
+  "components/ui/confirm-dialog": {
+    "Cancel": "Cancel",
+    "Confirm": "Confirmer"
+  },
+  "components/ui/countdown": {
+    "MIN": "MIN",
+    "SEC": "SECONDE",
+    "please_refresh_to_start_a_new_deposit_session": "Veuillez actualiser pour démarrer une nouvelle session de dépôt",
+    "session_expired": "Session expirée"
+  },
+  "components/ui/error-display": {
+    "Retry": "Réessayer",
+    "error_loading_data": "Erreur de chargement des données"
+  },
+  "components/ui/icon-picker": {
+    "All": "All",
+    "Arrows": "Flèches",
+    "Commerce": "Commerce",
+    "Interface": "Interface",
+    "Media": "Média",
+    "Popular": "Populaire",
+    "Shapes": "Formes",
+    "no_icons_found": "Aucune icône trouvée",
+    "try_a_different_search_term": "Essayez un autre terme de recherche"
+  },
+  "components/ui/image-upload": {
+    "5mb)": "5 Mo)",
+    "Remove": "Enlever",
+    "drop_a_new_image_to_replace": "Déposez une nouvelle image pour la remplacer",
+    "processing_image": "Traitement de l’image",
+    "svg_png_jpg_or_gif_(max": "SVG, PNG, JPG ou GIF (max"
+  },
+  "components/ui/object-table": {
+    "Showing": "Showing",
+    "of": "of"
+  },
+  "components/ui/pagination": {
+    "Next": "Prochain",
+    "Previous": "Précédent"
+  },
+  "components/ui/stepper": {
+    "Back": "Back",
+    "Next": "Prochain",
+    "Processing": "Processing",
+    "Submit": "Envoyer"
+  },
+  "components/ui/tag-input": {
+    "maximum_of": "Maximum de",
+    "remove_a_tag_to_add_a_new_one": "Supprimer un tag pour en ajouter un nouveau",
+    "tags_reached": "Tags atteints"
+  },
+  "support": {
+    "agent_assignment": "Affectation de l’agent",
+    "all_conversations_are_securely_stored": "Toutes les conversations sont cryptées et stockées en toute sécurité",
+    "automatic_agent_assignment_and_expertise": "Attribution automatique des agents en fonction de la disponibilité et de l’expertise",
+    "contact_us": "Contactez-nous",
+    "create_and_manage_support_tickets_for_your_issues": "Créez et gérez des tickets d’assistance pour vos problèmes",
+    "create_support_ticket": "Créer un ticket d’assistance",
+    "get_help_when_support_system": "Obtenez de l’aide quand vous en avez besoin grâce à notre système d’assistance complet",
+    "get_instant_help_from_our_support_agents": "Obtenez de l’aide instantanée de la part de nos agents d’assistance",
+    "go_to_support_center": "Accéder au centre d’assistance",
+    "live_chat": "Chat en direct",
+    "need_help": "Besoin d’aide ?",
+    "our_support_team_may_have": "Notre équipe d’assistance est là pour vous aider à répondre à toutes vos questions ou problèmes",
+    "real-time_updates": "Mises à jour en temps réel",
+    "secure_communication": "Communication sécurisée",
+    "start_live_chat": "Démarrer le chat en direct",
+    "support_center": "Centre d’assistance",
+    "support_tickets": "Tickets d’assistance",
+    "try_live_chat_(bottom_right)": "Essayez le chat en direct (en bas à droite)",
+    "view_support_tickets": "Voir les tickets d’assistance",
+    "websocket_connections_ensure_status_updates": "Les connexions WebSocket garantissent la livraison instantanée des messages et les mises à jour de statut",
+    "•_direct_connection_with_support_agents": "• Connexion directe avec les agents d’assistance",
+    "•_file_sharing_capabilities": "• Capacités de partage de fichiers",
+    "•_full_conversation_history": "• Historique complet des conversations",
+    "•_queue_position_tracking": "• Suivi de la position de la file d’attente",
+    "•_real-time_messaging": "• Messagerie en temps réel",
+    "•_real-time_updates_via_websocket": "• Mises à jour en temps réel via WebSocket",
+    "•_set_priority_levels_(low_medium_high)": "• Définissez les niveaux de priorité (Faible, Moyen, Élevé)",
+    "•_track_your_issues_with_unique_ticket_ids": "• Suivez vos problèmes à l’aide d’identifiants de ticket uniques"
+  },
+  "utility": {
+    "*dont_worry_we_will_not_spam_you_)": "*Ne vous inquiétez pas, nous ne vous enverrons pas de spam :)",
+    "*don’t_worry_we_will_not_spam_you_)": "*Ne vous inquiétez pas, nous ne vous enverrons pas de spam :)",
+    "coming_soon": "À venir",
+    "contact_us": "Contactez-nous",
+    "get_notified_when_we_launch": "Recevez une notification lors du lancement",
+    "notify_me": "Prévenez-moi",
+    "we_are_under_maintenance": "Nous sommes en maintenance",
+    "well_be_back_shortly": "Nous reviendrons sous peu",
+    "were_making_the_system_more_awesome": "Nous rendons le système plus génial",
+    "we’ll_be_back_shortly": "Nous reviendrons sous peu",
+    "we’re_making_the_system_more_awesome": "Nous rendons le système plus génial"
+  }
+}

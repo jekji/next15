@@ -30,6 +30,8 @@
     "fumadocs-core": "^16.0.5",
     "fumadocs-mdx": "^13.0.5",
     "fumadocs-ui": "^16.0.5",
+    "fumadocs-openapi": "^10.1.0",
+    "shiki": "^3.17.0",
     "radix-ui": "^1.4.3",
     "@hookform/resolvers": "^3.10.0",
     "@iconify/react": "^5.2.1",

@@ -1,5 +1,6 @@
 import type { LucideIcon } from 'lucide-react'
 import { loader } from 'fumadocs-core/source'
+import { createOpenAPI, openapiPlugin } from 'fumadocs-openapi/server';
 import { defineI18n } from 'fumadocs-core/i18n';
 import * as lucideIcons from 'lucide-react'
 import { createElement } from 'react'
@@ -14,6 +15,7 @@ export const i18n = defineI18n({
 export const source = loader({
   baseUrl: '/docs',
   source: docs.toFumadocsSource(),
-  i18n
+  i18n,
+  plugins: [openapiPlugin()],
 })
 

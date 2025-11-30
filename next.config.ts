@@ -1,4 +1,5 @@
- 
+import { createMDX } from 'fumadocs-mdx/next';
+
 const path = require("path");
 const fs = require("fs");
 
@@ -162,4 +163,9 @@ const nextConfig = {
   },
 };
 
-module.exports = withNextIntl(nextConfig);
+const withMDX = createMDX({
+  configPath: 'docs.config.ts',
+})
+
+// module.exports = withMDX(withNextIntl(nextConfig));
+export default withMDX(withNextIntl(nextConfig));

@@ -132,6 +132,10 @@ const { provider } = defineI18nUI(i18n, {
   translations,
 });
 
+const siteName = process.env.NEXT_PUBLIC_SITE_NAME || '';
+
+export const dynamic = 'force-static';
+
 export default async function Layout({ children, params }: LayoutProps<'/[locale]/docs'>) {
   const { locale } = await params
 
@@ -147,7 +151,7 @@ export default async function Layout({ children, params }: LayoutProps<'/[locale
       <DocsLayout
         i18n={i18n}
         nav={{
-          title: process.env.NEXT_PUBLIC_SITE_NAME || translations[locale]?.home || translations.en.home,
+          title: siteName || translations[locale]?.home || translations.en.home,
           url: `/${locale}`,
         }}
         githubUrl={
